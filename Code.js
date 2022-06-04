@@ -16,7 +16,7 @@ function clues() {
     fill("lightblue")
     text("Hint: Performs a particular task !!", 700,170)
 
-    fill("white")
+    fill("green")
     textSize(15)
     text("A T E D A S B A", 100,250)
     fill("lightblue")
